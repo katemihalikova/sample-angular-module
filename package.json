@@ -1,6 +1,6 @@
 {
   "name": "@katemihalikova/sample",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Kate Miháliková <kate@katemihalikova.cz>",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
